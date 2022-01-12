@@ -1,6 +1,4 @@
-body{
-	background-color: rgb(245, 114, 7);
-}
+
 .tags{
 	padding: 10px;
 	background-color: white;
@@ -14,5 +12,6 @@ body{
 }
 .sizehome{
 	margin-top: 0;
-	
+	padding-left: 20px;
+	padding-right: 20px;
 }
